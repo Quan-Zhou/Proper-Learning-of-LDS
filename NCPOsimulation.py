@@ -58,7 +58,7 @@ def SimCom(proc_noise_std,obs_noise_std,T,level):
             # Solve the NCPO
             sdp = SdpRelaxation(variables = flatten([G,Fdash,f,p,m,q]),verbose = 2)
             sdp.get_relaxation(level, objective=obj, inequalities=ines)
-            sdp.solve(solver='sdpa', solverparameters={"executable":"sdpa_gmp","executable": "C:\\Users\\zhouq\\Documents\\sdpa7-windows\\sdpa.exe"})
+            sdp.solve(solver='sdpa')
             #print(sdp.primal, sdp.dual, sdp.status)
             if (sdp[sum((Y[i]-f[i])**2 for i in range(T))] < 0):
                 print("sum((Y[i]-f[i])**2 for i in range(T)) < 0")
