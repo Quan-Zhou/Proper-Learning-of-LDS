@@ -1,6 +1,6 @@
 # Proper-Learning-of-LDS
  
-This the source code for the paper "Proper Learning of Linear Dynamical Systems as a Non-Commutative Polynomial Optimisation Problem". 
+This the source code for the paper *Proper Learning of Linear Dynamical Systems as a Non-Commutative Polynomial Optimisation Problem*. 
 
 It inculdes the scripts, workspace and data files for each figure in the paper.
 
