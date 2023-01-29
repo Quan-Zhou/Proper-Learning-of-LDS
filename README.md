@@ -14,8 +14,6 @@ It includes scripts in Python (ended with "PY"), Julia (ended with "JL"), and MA
 
 3.Optimization Toolbox https://ww2.mathworks.cn/help/optim/
 
-4.suplable https://ww2.mathworks.cn/matlabcentral/fileexchange/7772-suplabel
-
 ## Requirements for Python scripts:
 
 1.inputlds https://raw.githubusercontent.com/jmarecek/OnlineLDS/master/inputlds.py
@@ -24,4 +22,6 @@ It includes scripts in Python (ended with "PY"), Julia (ended with "JL"), and MA
 
 ## Requirements for Julia scripts:
 
-1.TSSOS https://github.com/wangjie212/TSSOS
+1.NCTSSOS https://github.com/wangjie212/NCTSSOS
+
+2.TSSOS https://github.com/wangjie212/TSSOS
