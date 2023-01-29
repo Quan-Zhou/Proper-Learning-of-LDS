@@ -8,23 +8,23 @@ It includes scripts in Python (ended with "PY"), Julia (ended with "JL"), and MA
 
 ## Dependencies
 
-# Mosek 9.2
+1. Mosek 9.2
 
-# Matlab scripts:
+2. Matlab scripts:
 
-1.Statistics and Machine Learning Toolbox https://ww2.mathworks.cn/help/stats/
+- Statistics and Machine Learning Toolbox https://ww2.mathworks.cn/help/stats/
 
-2.System Identification Toolbox https://ww2.mathworks.cn/help/ident/
+- System Identification Toolbox https://ww2.mathworks.cn/help/ident/
 
-3.Optimization Toolbox https://ww2.mathworks.cn/help/optim/
+- Optimization Toolbox https://ww2.mathworks.cn/help/optim/
 
-## Requirements for Python scripts:
+3. Requirements for Python scripts:
 
 1.inputlds https://raw.githubusercontent.com/jmarecek/OnlineLDS/master/inputlds.py
 
 2.ncpol2sdpa https://ncpol2sdpa.readthedocs.io/en/stable/index.html
 
-## Requirements for Julia scripts:
+4. Requirements for Julia scripts:
 
 1.NCTSSOS https://github.com/wangjie212/NCTSSOS
 
