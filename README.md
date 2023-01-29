@@ -10,7 +10,23 @@ It includes scripts in Python (ended with "PY"), Julia (ended with "JL"), and MA
 
 1. Mosek/9.2
 
-2. Matlab scripts:
+2. Python scripts:
+
+- Python/3.9.6
+
+- inputlds https://raw.githubusercontent.com/jmarecek/OnlineLDS/master/inputlds.py
+
+- ncpol2sdpa 1.12.2 https://ncpol2sdpa.readthedocs.io/en/stable/index.html
+
+3. Julia scripts:
+
+- Julia/1.5.2
+
+- NCTSSOS https://github.com/wangjie212/NCTSSOS
+
+- TSSOS https://github.com/wangjie212/TSSOS
+
+4. Matlab scripts:
 
 - Matlab/R2021a
  
@@ -19,19 +35,3 @@ It includes scripts in Python (ended with "PY"), Julia (ended with "JL"), and MA
 - System Identification Toolbox https://ww2.mathworks.cn/help/ident/
 
 - Optimization Toolbox https://ww2.mathworks.cn/help/optim/
-
-3. Requirements for Python scripts:
-
-- Python/3.9.6
-
-- inputlds https://raw.githubusercontent.com/jmarecek/OnlineLDS/master/inputlds.py
-
-- ncpol2sdpa 1.12.2 https://ncpol2sdpa.readthedocs.io/en/stable/index.html
-
-4. Requirements for Julia scripts:
-
-- Julia/1.5.2
-
-- NCTSSOS https://github.com/wangjie212/NCTSSOS
-
-- TSSOS https://github.com/wangjie212/TSSOS
