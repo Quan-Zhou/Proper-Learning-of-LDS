@@ -6,6 +6,10 @@ It inculdes the scripts, workspace and data files for each figure in the paper.
 
 It includes scripts in Python (ended with "PY"), Julia (ended with "JL"), and MATLAB (.m files).
 
+### Dependencies
+
+## Mosek 9.2
+
 ## Requirements for Matlab scripts:
 
 1.Statistics and Machine Learning Toolbox https://ww2.mathworks.cn/help/stats/
