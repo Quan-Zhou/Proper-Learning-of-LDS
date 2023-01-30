@@ -1,4 +1,4 @@
-# Proper-Learning-of-LDS
+# Proper Learning of LDS
  
 This the source code for the paper *Proper Learning of Linear Dynamical Systems as a Non-Commutative Polynomial Optimisation Problem*:
 
@@ -13,9 +13,7 @@ This the source code for the paper *Proper Learning of Linear Dynamical Systems 
 }
 ```
 
-It inculdes the scripts, workspace and data files for each figure in the paper.
-
-It includes scripts in Python (ended with "PY"), Julia (ended with "JL"), and MATLAB (.m files).
+It inculdes the scripts, workspace and data files for each figure in the paper. In particular, it includes scripts in Python ("py"), Julia ("jl"), and MATLAB ("m").
 
 ## Dependencies
 
