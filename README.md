@@ -30,8 +30,8 @@ It includes scripts in Python (ended with "PY"), Julia (ended with "JL"), and MA
 
 - Matlab/R2021a
  
-- Statistics and Machine Learning Toolbox https://ww2.mathworks.cn/help/stats/
+- Statistics and Machine Learning Toolbox https://www.mathworks.com/help/stats/
 
-- System Identification Toolbox https://ww2.mathworks.cn/help/ident/
+- System Identification Toolbox https://www.mathworks.com/help/ident/
 
-- Optimization Toolbox https://ww2.mathworks.cn/help/optim/
+- Optimization Toolbox https://www.mathworks.com/help/optim/
