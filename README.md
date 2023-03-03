@@ -1,6 +1,6 @@
 # Proper Learning of LDS
  
-This the source code for the paper *Proper Learning of Linear Dynamical Systems as a Non-Commutative Polynomial Optimisation Problem*:
+This is the source code for the paper *Proper Learning of Linear Dynamical Systems as a Non-Commutative Polynomial Optimisation Problem*:
 
 ```
 @misc{https://doi.org/10.48550/arxiv.2002.01444,
@@ -17,7 +17,7 @@ It inculdes the scripts, workspace and data files for each figure in the paper. 
 
 ## Dependencies
 
-1. Mosek/9.2
+1. Mosek/9.2 https://www.mosek.com/downloads/list/9/
 
 2. Python scripts:
 
