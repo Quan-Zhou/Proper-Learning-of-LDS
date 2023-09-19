@@ -44,3 +44,5 @@ It inculdes the scripts, workspace and data files for each figure in the paper. 
 - System Identification Toolbox https://www.mathworks.com/help/ident/
 
 - Optimization Toolbox https://www.mathworks.com/help/optim/
+
+- Some old codes use PRETTYPLOT https://uk.mathworks.com/matlabcentral/fileexchange/27237-prettyplot to make plots in MATLAB. The plots in our draft are all made in Python.
